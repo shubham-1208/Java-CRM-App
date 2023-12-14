@@ -1,1 +1,1 @@
-# Java-CRM-App
+# Java-Student-management-system
